@@ -20,7 +20,7 @@ interests:
   - Everything cybersecurity
   - AI security at runtime
   - Soccer ⚽
-motto: "Blue team by day, log hunter by night."
+motto: "CMON SPIDERMAN"
 ```
 
 ## 🛠️ Tools & Technologies

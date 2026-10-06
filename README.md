@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20there!&fontSize=50&animation=fadeIn&type=waving&color=0:0a0a2e,100:16213e&height=180"/>
+  <img src="https://capsule-render.vercel.app/api?text=root@ccfreck%3A~%24&fontSize=45&animation=fadeIn&type=waving&color=0:000000,100:00ff41&height=180"/>
 </p>
 
 <h3 align="center">SOC Analyst | Cybersecurity Enthusiast</h3>
@@ -53,5 +53,5 @@ motto: "Blue team by day, log hunter by night."
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0a0a2e&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=120&section=footer"/>
 </p>

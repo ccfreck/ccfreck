@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=root@ccfreck%3A~%24&fontSize=45&animation=fadeIn&type=waving&color=0:000000,100:00ff41&height=180"/>
-</p>
-
 <h3 align="center">SOC Analyst | Cybersecurity Enthusiast</h3>
 
 <p align="center">
@@ -51,8 +47,4 @@ motto: "CMON SPIDERMAN"
 
 <p align="center">
   <img src="https://giffiles.alphacoders.com/222/222573.gif" alt="Rengoku's Fiery Blaze" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=120&section=footer"/>
 </p>

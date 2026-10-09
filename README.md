@@ -50,5 +50,9 @@ motto: "CMON SPIDERMAN"
 </p>
 
 <p align="center">
+  <img src="https://giffiles.alphacoders.com/222/222573.gif" alt="Rengoku's Fiery Blaze" width="400"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=120&section=footer"/>
 </p>
